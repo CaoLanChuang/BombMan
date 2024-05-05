@@ -187,7 +187,6 @@ public final class GameEngine {
         });
         layer.getChildren().add(explosion);
         tt.play();
-
     }
 
 
