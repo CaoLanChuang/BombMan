@@ -786,6 +786,16 @@ INPUT d:/TexLive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT d:/TexLive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT d:/TexLive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 OUTPUT rapport.toc
+INPUT ./src/cycle.png
+INPUT ./src/cycle.png
+INPUT ./src/cycle.png
+INPUT ./src/cycle.png
+INPUT ./src/cycle.png
+INPUT ./src/UML_Class.png
+INPUT ./src/UML_Class.png
+INPUT ./src/UML_Class.png
+INPUT ./src/UML_Class.png
+INPUT ./src/UML_Class.png
 INPUT d:/TexLive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT d:/TexLive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT d:/TexLive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
